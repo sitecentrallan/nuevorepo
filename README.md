@@ -1,3 +1,3 @@
 # nuevorepo
 #Este repositorio especifica el uso correcto del scrip 
-![GitHub Logo] (/Desktop/linux.jpg)
+/home/cinvestav/Desktop/linux.jpg
